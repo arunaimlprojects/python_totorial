@@ -1,0 +1,29 @@
+Here are 20 Python **list** questions for practice:  
+
+### **Basic Level**  
+1. What is a list in Python? How is it different from a tuple?  
+2. How do you create an empty list in Python?  
+3. How do you add an element to the end of a list?  
+4. What is the difference between `append()` and `extend()` in lists?  
+5. How do you insert an element at a specific index in a list?  
+6. How do you remove an element from a list by value?  
+7. How do you remove an element from a list by index?  
+8. What is the difference between `pop()` and `remove()`?  
+9. How do you reverse a list in Python?  
+10. How do you sort a list in ascending and descending order?  
+
+### **Intermediate Level**  
+11. How do you find the length of a list?  
+12. How do you check if an element exists in a list?  
+13. How do you access the last element of a list?  
+14. What is list slicing? Provide an example.  
+15. How do you copy a list without modifying the original list?  
+16. What is the difference between `deepcopy()` and `copy()` for lists?  
+17. How do you concatenate two lists?  
+18. What is list comprehension? Provide an example.  
+
+### **Advanced Level**  
+19. How do you remove duplicate elements from a list?  
+20. How do you find the intersection of two lists?  
+
+Would you like me to provide solutions for these questions as well? 😊
