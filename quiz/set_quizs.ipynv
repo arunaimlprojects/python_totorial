@@ -1,0 +1,147 @@
+Here are **20 quiz questions** based on **Python Sets**:  
+
+### **Python Sets Quiz**  
+
+#### **1. Basic Set Operations**  
+1. **Which syntax correctly defines a Set in Python?**  
+   a) `{}`  
+   b) `[]`  
+   c) `set()`  
+   d) Both `{}` and `set()`  
+
+2. **Which of the following are key characteristics of a Set in Python?**  
+   a) Unordered  
+   b) Mutable  
+   c) Duplicates Allowed  
+   d) Ordered  
+
+3. **Which is the correct way to create an empty Set in Python?**  
+   a) `s = {}`  
+   b) `s = set()`  
+   c) `s = []`  
+   d) `s = ()`  
+
+4. **How are duplicate values handled in a Set?**  
+   a) An error occurs  
+   b) Duplicate values are removed  
+   c) Duplicate values are allowed  
+   d) They are stored separately  
+
+5. **Which method is used to add an element to a Set?**  
+   a) `append()`  
+   b) `add()`  
+   c) `insert()`  
+   d) `push()`  
+
+6. **Which method is used to remove an element from a Set?**  
+   a) `delete()`  
+   b) `remove()`  
+   c) `discard()`  
+   d) Both `remove()` and `discard()`  
+
+7. **What will be the output of the following code?**  
+   ```python
+   s = {1, 2, 3, 4}
+   s.add(3)
+   print(s)
+   ```  
+   a) `{1, 2, 3, 4}`  
+   b) `{1, 2, 3, 4, 3}`  
+   c) `{1, 2, 4}`  
+   d) Error  
+
+8. **What will be the output of the following code?**  
+   ```python
+   s = {1, 2, 3}
+   s.clear()
+   print(s)
+   ```  
+   a) `{}`  
+   b) `set()`  
+   c) `None`  
+   d) `[ ]`  
+
+#### **2. Set Operations**  
+9. **Which method is used to find the union of two sets?**  
+   a) `union()`  
+   b) `intersection()`  
+   c) `difference()`  
+   d) `merge()`  
+
+10. **Which method is used to find the intersection of two sets?**  
+    a) `union()`  
+    b) `intersection()`  
+    c) `difference()`  
+    d) `merge()`  
+
+11. **What will be the result of `s1 | s2` in Sets?**  
+    a) Intersection of `s1` and `s2`  
+    b) Union of `s1` and `s2`  
+    c) Difference of `s1` and `s2`  
+    d) Error  
+
+12. **What is the difference between `remove()` and `discard()` in Sets?**  
+    a) `remove()` removes an element and raises an error if the element is not found, whereas `discard()` does not raise an error.  
+    b) `remove()` and `discard()` work the same way.  
+    c) `discard()` removes multiple elements, `remove()` removes only one.  
+    d) `remove()` works on lists, `discard()` works on sets.  
+
+13. **What does the `pop()` method do in a Set?**  
+    a) Removes the last element  
+    b) Removes the first element  
+    c) Removes a random element  
+    d) Removes all elements  
+
+14. **What will be the output of the following code?**  
+    ```python
+    s1 = {1, 2, 3}
+    s2 = {2, 3, 4}
+    print(s1 & s2)
+    ```  
+    a) `{1, 2, 3, 4}`  
+    b) `{2, 3}`  
+    c) `{1, 4}`  
+    d) `{}`  
+
+15. **Which operator is used for set difference?**  
+    a) `|`  
+    b) `&`  
+    c) `-`  
+    d) `^`  
+
+16. **Which method checks if a Set is a subset of another Set?**  
+    a) `issubset()`  
+    b) `issuperset()`  
+    c) `subset()`  
+    d) `isContained()`  
+
+17. **What is the result of the following?**  
+    ```python
+    s1 = {1, 2, 3}
+    s2 = {3, 4, 5}
+    print(s1 ^ s2)
+    ```  
+    a) `{1, 2, 4, 5}`  
+    b) `{3}`  
+    c) `{1, 2, 3, 4, 5}`  
+    d) `{}`  
+
+18. **Which of the following is NOT a valid Set operation?**  
+    a) `s1.union(s2)`  
+    b) `s1 - s2`  
+    c) `s1 + s2`  
+    d) `s1.intersection(s2)`  
+
+19. **What will be the output of `set("hello")`?**  
+    a) `{"hello"}`  
+    b) `{'h', 'e', 'l', 'o'}`  
+    c) `{'hello'}`  
+    d) `['h', 'e', 'l', 'l', 'o']`  
+
+20. **What will be the output of `len(set([1, 2, 2, 3, 3, 3]))`?**  
+    a) `3`  
+    b) `4`  
+    c) `6`  
+    d) `5`  
+
+Let me know if you need explanations or answers! 😊🚀
