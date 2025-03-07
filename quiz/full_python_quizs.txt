@@ -1,0 +1,44 @@
+### **Python, NumPy, and Pandas Interview Quizzes (30 Questions)**  
+
+---
+
+### **Python Interview Quizzes (10 Questions)**  
+1. **What is the difference between a list and a tuple in Python?**  
+2. **What is the difference between `deepcopy` and `shallow copy` in Python?**  
+3. **When and how do you use `*args` and `**kwargs` in Python?**  
+4. **How does memory management work in Python?**  
+5. **What is the purpose of `global` and `nonlocal` keywords in Python?**  
+6. **What is the difference between a lambda function and a normal function?**  
+7. **What is the difference between `is` and `==` in Python?**  
+8. **What are metaclasses in Python?**  
+9. **Explain the difference between mutable and immutable data types in Python.**  
+10. **What is the difference between Python 2 and Python 3?**  
+
+---
+
+### **NumPy Interview Quizzes (10 Questions)**  
+11. **What is NumPy, and why is it used in Python?**  
+12. **How do you create a NumPy array? Provide an example.**  
+13. **What is the difference between `np.array()` and `np.asarray()`?**  
+14. **How do you generate a NumPy array with random values?**  
+15. **What is broadcasting in NumPy? Explain with an example.**  
+16. **What is the difference between `reshape()` and `ravel()` in NumPy?**  
+17. **How can you find the mean, median, and standard deviation of a NumPy array?**  
+18. **How does NumPy handle missing values?**  
+19. **How do you perform element-wise addition and multiplication in NumPy?**  
+20. **What is the difference between `np.linalg.inv()` and `np.linalg.det()` in NumPy?**  
+
+---
+
+### **Pandas Interview Quizzes (10 Questions)**  
+21. **What is Pandas, and why is it used in Python?**  
+22. **How do you create a DataFrame from a dictionary? Provide an example.**  
+23. **What is the difference between `loc[]` and `iloc[]` in Pandas?**  
+24. **How do you handle missing values in a Pandas DataFrame?**  
+25. **How can you filter a DataFrame based on a condition?**  
+26. **What is the difference between `apply()`, `map()`, and `applymap()` in Pandas?**  
+27. **How do you merge two DataFrames in Pandas? Explain different types of joins.**  
+28. **How do you group data in Pandas? Provide an example using `groupby()`.**  
+29. **How do you convert a Pandas DataFrame into a NumPy array?**  
+30. **What is the difference between `pivot_table()` and `melt()` in Pandas?**  
+
